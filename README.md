@@ -56,4 +56,6 @@ The dataset supports identity-augmented evaluation by replacing placeholders wit
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. You are free to share and adapt the dataset, provided appropriate credit is given.
+
+For more details, see the LICENSE file.
