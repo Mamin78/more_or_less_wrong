@@ -1,4 +1,4 @@
-# More or Less Wrong: A Benchmark for Directional Bias in LLM Comparative Reasoning
+# Framing Bias in Arithmetic Reasoning: How Language and Identity Cues Steer LLM Outputs in Objective Tasks
 
 ## Overview
 MATHCOMP is a diagnostic benchmark designed to probe how Large Language Models (LLMs) reason under comparative linguistic framing. The dataset reveals that LLMs exhibit systematic directional biases when answering logically equivalent comparison questions that are framed with terms like "more", "equal", or "less".
